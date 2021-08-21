@@ -11,7 +11,7 @@ The following components are implemented and tested on silicon:
 - 19200/8N1 RS-232 Receiver/Transmitter
 - 512 MBit DDR Ram
 
-![void Bootloader](/img/1342461930) ![Tennmino](/img/1342461944)
+![void Bootloader](/img/1342461930.jpg) ![Tennmino](/img/1342461944.jpg)
 The picture to the left shows the start-up screen. With "void Bootloader" you can upload program images to the flash and run then on the DDR.
 An example program is "Tennmino" a tetris clone for layer\[2\].
 
